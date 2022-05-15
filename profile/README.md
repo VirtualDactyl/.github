@@ -1,8 +1,4 @@
 # VirtualDactyl
-VirtualDactyl is a pterodactyl client panel where users can make their own servers.
+> VirtualDactyl is a pterodactyl client panel.
 
-## Features
-- User registration
-- Users can make their own servers
-- Store
-- Billing system
+More info: https://github.com/VirtualDactyl/VirtualDactyl
